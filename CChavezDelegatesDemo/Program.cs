@@ -125,7 +125,7 @@ namespace CChavezDelegatesDemo
         }
     
 
-    static void Header()
+        static void Header()
         {
             Console.WriteLine($".NET I/C SHARP (U01) Class Header\nProgramed by: Colby Chavez\nEmail:cchavez572@cnm.edu\nProgram name: {PROGNAME}Program goal: Demo of delegates \n\n");
 
