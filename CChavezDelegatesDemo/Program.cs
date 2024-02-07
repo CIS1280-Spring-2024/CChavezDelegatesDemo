@@ -97,7 +97,7 @@ namespace CChavezDelegatesDemo
 
                     //  6.6.Notice that you can add a lambda to a multicast delegate and it also works.
 
-                    //  List<T>.Find(Predicate<T>) Method
+                    //  Array and List<T>.Find(Predicate<T>) Method
                     //  using lambda expresions in a find
                     string[] firstWord = { "the", "quick", "brown", "fox", "jumps", "over", "the", "lazy", "dog" };
                     List <string> allWords = new List<string>{ "Sphinx", "of", "black", "Quartz","Judge","my","vow" };
